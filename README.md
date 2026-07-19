@@ -42,8 +42,8 @@ A modern, full-stack application that extracts insights and generates summaries 
 
 ## 🚀 Live Demo
 
-**Frontend**: [https://your-app.vercel.app](https://your-app.vercel.app)
-**API Docs**: [https://your-app.vercel.app/api/docs](https://your-app.vercel.app/api/docs)
+**Frontend**: (https://iip-frontend.onrender.com/)
+**API Docs**: (https://iip-frontend.onrender.com)
 
 ## 🛠️ Tech Stack
 
